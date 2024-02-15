@@ -13,14 +13,14 @@
 <br>
 
 ### 📃 목록
-* [ ] **Part 01** _리액티브 프로그래밍_
-  * [ ] **Chapter 01** 리액티브 시스템과 리액티브 프로그래밍
-  * [ ] **Chapter 02** 리액티브 스트림즈
-  * [ ] **Chapter 03** Blocking I/O와 Non-Blocking I/O
-  * [ ] **Chapter 04** 리액티브 프로그래밍을 위한 사전 지식
+* [x] **Part 01** _리액티브 프로그래밍_
+  * [x] **Chapter 01** 리액티브 시스템과 리액티브 프로그래밍
+  * [x] **Chapter 02** 리액티브 스트림즈
+  * [x] **Chapter 03** Blocking I/O와 Non-Blocking I/O
+  * [x] **Chapter 04** 리액티브 프로그래밍을 위한 사전 지식
 * [ ] **Part 02** _Project Reactor_
-  * [ ] **Chapter 05** Reactor 개요
-  * [ ] **Chapter 06** 마블 다이어그램(Marble Diagram)
+  * [x] **Chapter 05** Reactor 개요
+  * [x] **Chapter 06** 마블 다이어그램(Marble Diagram)
   * [ ] **Chapter 07** Cold Sequence와 Hot Sequence
   * [ ] **Chapter 08** Backpressure
   * [ ] **Chapter 09** Sinks

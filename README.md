@@ -13,14 +13,14 @@
 <br>
 
 ### 📃 목록
-* [ ] **Part 01** _리액티브 프로그래밍_
-  * [ ] **Chapter 01** 리액티브 시스템과 리액티브 프로그래밍
-  * [ ] **Chapter 02** 리액티브 스트림즈
-  * [ ] **Chapter 03** Blocking I/O와 Non-Blocking I/O
-  * [ ] **Chapter 04** 리액티브 프로그래밍을 위한 사전 지식
+* [x] **Part 01** _리액티브 프로그래밍_
+  * [x] [**Chapter 01** 리액티브 시스템과 리액티브 프로그래밍](https://github.com/Leejieon/reactive-programming-study/tree/main/Part01/Ch01)
+  * [x] [**Chapter 02** 리액티브 스트림즈](https://github.com/Leejieon/reactive-programming-study/tree/main/Part01/Ch02)
+  * [x] [**Chapter 03** Blocking I/O와 Non-Blocking I/O](https://github.com/Leejieon/reactive-programming-study/tree/main/Part01/Ch03)
+  * [x] [**Chapter 04** 리액티브 프로그래밍을 위한 사전 지식](https://github.com/Leejieon/reactive-programming-study/tree/main/Part01/Ch04)
 * [ ] **Part 02** _Project Reactor_
-  * [ ] **Chapter 05** Reactor 개요
-  * [ ] **Chapter 06** 마블 다이어그램(Marble Diagram)
+  * [x] [**Chapter 05** Reactor 개요](https://github.com/Leejieon/reactive-programming-study/tree/main/Part02/Ch05)
+  * [x] [**Chapter 06** 마블 다이어그램(Marble Diagram)](https://github.com/Leejieon/reactive-programming-study/tree/main/Part02/Ch06)
   * [ ] **Chapter 07** Cold Sequence와 Hot Sequence
   * [ ] **Chapter 08** Backpressure
   * [ ] **Chapter 09** Sinks

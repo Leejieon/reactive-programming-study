@@ -21,9 +21,9 @@
 * [ ] **Part 02** _Project Reactor_
   * [x] [**Chapter 05** Reactor 개요](https://github.com/Leejieon/reactive-programming-study/tree/main/Part02/Ch05)
   * [x] [**Chapter 06** 마블 다이어그램(Marble Diagram)](https://github.com/Leejieon/reactive-programming-study/tree/main/Part02/Ch06)
-  * [ ] **Chapter 07** Cold Sequence와 Hot Sequence
-  * [ ] **Chapter 08** Backpressure
-  * [ ] **Chapter 09** Sinks
+  * [x] **Chapter 07** Cold Sequence와 Hot Sequence
+  * [x] **Chapter 08** Backpressure
+  * [x] **Chapter 09** Sinks
   * [ ] **Chapter 10** Scheduler
   * [ ] **Chapter 11** Context
   * [ ] **Chapter 12** Debugging

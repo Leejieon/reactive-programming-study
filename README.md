@@ -24,8 +24,8 @@
   * [x] **Chapter 07** Cold Sequence와 Hot Sequence
   * [x] **Chapter 08** Backpressure
   * [x] **Chapter 09** Sinks
-  * [ ] **Chapter 10** Scheduler
-  * [ ] **Chapter 11** Context
+  * [x] **Chapter 10** Scheduler
+  * [x] **Chapter 11** Context
   * [ ] **Chapter 12** Debugging
   * [ ] **Chapter 13** Testing
   * [ ] **Chapter 14** Operators

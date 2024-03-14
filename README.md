@@ -7,9 +7,15 @@
 <br>
 
 ### 💻 스터디 구성원
+### 🪦 RIP
+|Backend|
+|---|
+|[조민기](https://github.com/MinkiJo)|
+
+
 |Backend|Backend|Backend|Backend|
 |---|---|---|---|
-|[이예찬](https://github.com/yechanissm)|[조민기](https://github.com/MinkiJo)|[이지언](https://github.com/Leejieon)|[주효림](https://github.com/Juhyorim)|
+|[이예찬](https://github.com/yechanissm)|[이지언](https://github.com/Leejieon)|[김민종](https://github.com/ma-an-jong)|[주효림](https://github.com/Juhyorim)|
 <br>
 
 ### 📃 목록
@@ -21,13 +27,13 @@
 * [ ] **Part 02** _Project Reactor_
   * [x] [**Chapter 05** Reactor 개요](https://github.com/Leejieon/reactive-programming-study/tree/main/Part02/Ch05)
   * [x] [**Chapter 06** 마블 다이어그램(Marble Diagram)](https://github.com/Leejieon/reactive-programming-study/tree/main/Part02/Ch06)
-  * [x] **Chapter 07** Cold Sequence와 Hot Sequence
-  * [x] **Chapter 08** Backpressure
-  * [x] **Chapter 09** Sinks
-  * [x] **Chapter 10** Scheduler
-  * [x] **Chapter 11** Context
-  * [ ] **Chapter 12** Debugging
-  * [ ] **Chapter 13** Testing
+  * [x] [**Chapter 07** Cold Sequence와 Hot Sequence](https://github.com/Leejieon/reactive-programming-study/tree/main/Part02/Ch07)
+  * [x] [**Chapter 08** Backpressure](https://github.com/Leejieon/reactive-programming-study/tree/main/Part02/Ch08)
+  * [x] [**Chapter 09** Sinks](https://github.com/Leejieon/reactive-programming-study/tree/main/Part02/Ch09)
+  * [x] [**Chapter 10** Scheduler](https://github.com/Leejieon/reactive-programming-study/tree/main/Part02/Ch10)
+  * [x] [**Chapter 11** Context](https://github.com/Leejieon/reactive-programming-study/tree/main/Part02/Ch11)
+  * [x] [**Chapter 12** Debugging](https://github.com/Leejieon/reactive-programming-study/tree/main/Part02/Ch12)
+  * [x] [**Chapter 13** Testing](https://github.com/Leejieon/reactive-programming-study/tree/main/Part02/Ch13)
   * [ ] **Chapter 14** Operators
 * [ ] **Part 03** _Spring WebFlux_
   * [ ] **Chapter 15** Spring WebFlux 개요

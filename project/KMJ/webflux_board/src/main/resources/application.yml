@@ -1,0 +1,11 @@
+spring:
+  r2dbc:
+    url: r2dbc:postgresql://localhost:5432/board #?useUnicode=true&characterEncoding=utf8&useSSL=false&serverTimezone=Asia/Seoul
+    username: postgres
+    password: alswhd11
+    pool:
+      max-size: 100
+
+logging:
+  level:
+    org.springframework.r2dbc.core: debug
